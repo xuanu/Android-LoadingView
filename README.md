@@ -8,5 +8,5 @@ progress 简单的无限旋转的进度条
   <attr name="border_width" format="dimension"></attr>//宽度
   ```
     
-- 如果宽度>半径，宽度=半径
+- 如果宽度>半径，宽度=半径  
 ![image](https://github.com/xuanu/Android-LoadingView/raw/master/screenshots/loading2.gif)
