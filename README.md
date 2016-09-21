@@ -1,6 +1,23 @@
 # Android-LoadingView
 progress 简单的无限旋转的进度条
 ***  
+  - 使用方法
+  * 根build.gradle添加
+   ```
+   allprojects {
+		repositories {
+			...
+			maven { url "https://jitpack.io" }
+		}
+	}
+   ```
+  * 使用项目的build.gradle中添加 
+   ```
+   dependencies {
+	        compile 'com.github.xuanu:Android-LoadingView:0.0.1'
+	}
+   ```
+   
   自定义一个Loading效果，无限旋转。
   可以自定义两个参数
   ```
